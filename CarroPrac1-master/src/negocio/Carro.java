@@ -3,6 +3,10 @@ package negocio;
 public class Carro {
     private int potencia;
     private double velocidad;
+    public Carro (int potencia, int double velocidad){
+        this.potencia = potenica;
+        this.velocidad = velocidad;
+    }
 
     /*
     Métodos para ingresar información
